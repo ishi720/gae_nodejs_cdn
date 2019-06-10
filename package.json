@@ -1,0 +1,22 @@
+{
+  "name": "gae_nodejs_cdn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishi720/gae_nodejs_cdn.git"
+  },
+  "author": "ishi720",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishi720/gae_nodejs_cdn/issues"
+  },
+  "homepage": "https://github.com/ishi720/gae_nodejs_cdn#readme",
+  "dependencies": {
+    "express": "4.x.x"
+  }
+}
