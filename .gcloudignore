@@ -1,3 +1,7 @@
-.git
-.gitignore
-node_modules/
+# すべてをignore
+*
+
+# 必要なファイル
+!yarn.lock
+!app.js
+!package.json
