@@ -9,7 +9,7 @@ app.use(function(req, res, next) {
   next();
 });
 
-app.use(express.static('node_modules'));
+app.use(express.static('./'));
 
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
