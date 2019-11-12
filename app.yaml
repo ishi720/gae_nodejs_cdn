@@ -1,7 +1,7 @@
 runtime: nodejs10
 
 automatic_scaling:
-  target_throughput_utilization: 0.9
-  max_concurrent_requests: 50
+  min_idle_instances: 1
+  max_idle_instances: 1
   min_instances: 1
   max_instances: 1
