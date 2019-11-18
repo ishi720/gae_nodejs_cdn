@@ -11,6 +11,11 @@ app.use(function(req, res, next) {
 
 app.use(express.static('./'));
 
+app.use(function(req, res, next){
+  res.status(404);
+  res.end('404 Not Found');
+});
+
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}`);
