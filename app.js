@@ -9,7 +9,8 @@ app.use(function(req, res, next) {
   next();
 });
 
-app.use(express.static('./'));
+app.use('/node_modules', express.static('./node_modules/'));
+app.use('/robots.txt', express.static('./robots.txt'));
 
 app.use(function(req, res, next){
   res.status(404);
