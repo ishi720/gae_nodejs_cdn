@@ -4,6 +4,11 @@
 
 **Google App Engine**上でCDNサービスが作れます
 
+### Badge
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e8a45eaae890424ebbb6c5f79237bc9e)](https://www.codacy.com/manual/ishi720/gae_nodejs_cdn?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ishi720/gae_nodejs_cdn&amp;utm_campaign=Badge_Grade)
+
+
 ### セットアップ手順
 
 - このプロジェクトをフォークする
