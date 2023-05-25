@@ -15,7 +15,7 @@
 - CDNで配信するjsパッケージをインストールする
 ```shell
 # jqueryを配信したい場合
-$ yarn install jquery
+$ yarn add jquery
 ```
 - Google App Engineへデプロイする
   - CDNサービスプロジェクトを作成
