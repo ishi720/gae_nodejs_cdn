@@ -6,7 +6,7 @@
 
 ### Badge
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e8a45eaae890424ebbb6c5f79237bc9e)](https://www.codacy.com/manual/ishi720/gae_nodejs_cdn?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ishi720/gae_nodejs_cdn&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8766526c356c41238aa1aaaf24f4ada8)](https://app.codacy.com/gh/ishi720/gae_nodejs_cdn/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 
 ### セットアップ手順
